@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Site
+comment0.text=\n\ \ Compilation\:\ \ javac\ Site.java\n\n\ \ simple\ data\ type\ for\ an\ (i,\ j)\ site\n\n
+comment1.params=i\ j
+comment1.target=Site(int,\ int)
+comment2.params=
+comment2.target=int\ i()
+comment3.params=
+comment3.target=int\ j()
+comment4.params=w
+comment4.target=int\ manhattanTo(Site)
+comment5.params=w
+comment5.target=boolean\ equals(Site)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

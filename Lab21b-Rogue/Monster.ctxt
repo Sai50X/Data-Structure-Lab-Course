@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=game
+comment1.target=Monster(Game)
+comment2.params=
+comment2.target=Site\ move()
+comment3.params=
+comment3.target=Site\ getValidMove()
+numComments=4
